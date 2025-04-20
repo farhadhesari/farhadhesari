@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefireborn&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadhesari&layout=compact&langs_count=6)
