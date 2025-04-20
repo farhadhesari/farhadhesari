@@ -7,7 +7,7 @@ I'm a passionate **Full Stack Developer** with experience in building modern, sc
 - 🌱 I’m learning more about **GraphQL**, **Docker**, and **CI/CD** processes
 - 👯 I’m looking to collaborate on open-source **web development** projects
 - 💬 Ask me about **TypeScript**, **MySQL**, **SCSS**, **Express**, and **Laravel**
-- 📫 How to reach me: [farhadashrafhessari@gmail.com](mailto:farhadashrafhessari@gmail.com) | [LinkedIn](https://www.linkedin.com/in/farhad-hessari-6665a4b4)
+- 📫 How to reach me: [farhadashrafhessari@gmail.com](mailto:farhadashrafhessari@gmail.com) | [LinkedIn](https://www.linkedin.com/in/farhadhesari)
 
 ---
 
@@ -35,10 +35,10 @@ I love working with the following tools:
 I'm always open to collaboration or job opportunities. Feel free to reach out to me:
 
 - 📧 [Email](mailto:farhadashrafhessari@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/farhad-hessari-6665a4b4)
+- 💼 [LinkedIn](https://www.linkedin.com/in/farhadhesari)
 
 ### 📫 Let's Connect!
 
 I’m always looking for new challenges and opportunities to grow. Feel free to drop me a message if you’re interested in working together!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhad-hessari-6665a4b4)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhadhesari)
