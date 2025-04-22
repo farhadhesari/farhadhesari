@@ -7,7 +7,7 @@ I'm a passionate **Full Stack Developer** with experience in building modern, sc
 - 🌱 I’m learning more about **GraphQL**, **Docker**, and **CI/CD** processes
 - 👯 I’m looking to collaborate on open-source **web development** projects
 - 💬 Ask me about **TypeScript**, **MySQL**, **SCSS**, **Express**, and **Laravel**
-- 📫 How to reach me: [farhadashrafhessari@gmail.com](mailto:farhadashrafhessari@gmail.com) | [LinkedIn](https://www.linkedin.com/in/farhadhesari)
+- 📫 How to reach me: [Email](mailto:farhadashrafhessari@gmail.com) | [LinkedIn](https://www.linkedin.com/in/farhadhesari)
 
 ---
 
